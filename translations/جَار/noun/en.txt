@@ -1,0 +1,4 @@
+neighbor
+next-door neighbor
+resident
+dweller

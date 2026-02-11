@@ -1,0 +1,5 @@
+safety
+integrity
+well-being
+soundness
+health

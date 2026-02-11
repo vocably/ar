@@ -1,0 +1,4 @@
+periodic
+cyclical
+round-robin
+league

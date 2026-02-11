@@ -1,0 +1,5 @@
+acoustic
+phonetic
+aural
+sonic
+vocal

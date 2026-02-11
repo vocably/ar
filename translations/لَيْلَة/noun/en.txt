@@ -1,0 +1,4 @@
+night
+day
+evening
+24 hours

@@ -1,0 +1,5 @@
+meetings
+gatherings
+assemblies
+sessions
+conventions

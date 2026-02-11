@@ -1,0 +1,9 @@
+home
+house
+residence
+dwelling
+station
+stop
+rank
+status
+position

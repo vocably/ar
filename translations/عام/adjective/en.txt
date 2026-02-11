@@ -1,0 +1,8 @@
+general
+public
+common
+universal
+overall
+generic
+unspecified
+inclusive

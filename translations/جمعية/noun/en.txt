@@ -1,0 +1,6 @@
+association
+society
+organization
+league
+union
+federation

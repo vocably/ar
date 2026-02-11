@@ -1,0 +1,4 @@
+garage
+carport
+parking garage
+service station

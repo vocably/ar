@@ -1,0 +1,7 @@
+neighbor
+next-door neighbor
+housemate
+roommate
+flatmate
+co-owner
+partner

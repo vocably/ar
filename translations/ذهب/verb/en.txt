@@ -1,0 +1,6 @@
+go
+leave
+depart
+pass
+vanish
+become

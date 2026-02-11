@@ -1,0 +1,4 @@
+grammatical
+syntactic
+well-formed
+linguistically correct

@@ -1,0 +1,6 @@
+acoustic
+audio
+phonic
+aural
+auditory
+vocal

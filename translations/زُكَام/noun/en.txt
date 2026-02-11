@@ -1,0 +1,5 @@
+cold
+flu
+common cold
+rhinitis
+coryza

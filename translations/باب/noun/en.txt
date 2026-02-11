@@ -1,0 +1,8 @@
+door
+gate
+chapter
+section
+field
+area
+opportunity
+avenue

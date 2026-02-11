@@ -1,0 +1,5 @@
+greet
+welcome
+say hello
+receive warmly
+show acceptance

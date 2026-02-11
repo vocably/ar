@@ -1,0 +1,4 @@
+morning
+forenoon
+daybreak
+dawn
