@@ -1,0 +1,1 @@
+["omistaa","varata","määrätä"]

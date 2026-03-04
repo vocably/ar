@@ -1,0 +1,1 @@
+["výsledok","súčet","bilancia"]

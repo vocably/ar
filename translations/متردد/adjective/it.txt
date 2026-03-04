@@ -1,0 +1,1 @@
+["indeciso","esitante","alternato"]

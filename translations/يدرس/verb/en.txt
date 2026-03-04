@@ -1,3 +1,1 @@
-He studies
-He examines
-He teaches
+["he studies","he examines","he reviews"]
