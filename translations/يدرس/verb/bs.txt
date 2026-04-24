@@ -1,1 +1,3 @@
-["studira","uči","proučava"]
+studira
+uči
+proučava

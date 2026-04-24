@@ -1,1 +1,3 @@
-["qirasho","qirashada","qirashooyinka"]
+qirasho
+qirashada
+qirashooyinka

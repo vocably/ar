@@ -1,1 +1,3 @@
-["integriteit","rechtschapenheid","eerlijkheid"]
+integriteit
+rechtschapenheid
+eerlijkheid

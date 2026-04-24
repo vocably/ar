@@ -1,1 +1,3 @@
-["Integritas","Kejujuran","Keadilan"]
+Integritas
+Kejujuran
+Keadilan

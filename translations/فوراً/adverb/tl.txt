@@ -1,1 +1,2 @@
-["Agad","Kaagad"]
+Agad
+Kaagad

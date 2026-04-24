@@ -1,1 +1,2 @@
-["konbentzitu","asebete"]
+konbentzitu
+asebete

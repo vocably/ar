@@ -1,1 +1,3 @@
-["Kutendeka","Kururama","Kuvimbika"]
+Kutendeka
+Kururama
+Kuvimbika

@@ -1,1 +1,3 @@
-["solúbthacht","inoiriúnaitheacht","bog"]
+solúbthacht
+inoiriúnaitheacht
+bog

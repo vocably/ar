@@ -1,1 +1,3 @@
-["gjithëpërfshirës","i plotë","universal"]
+gjithëpërfshirës
+i plotë
+universal

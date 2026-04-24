@@ -1,1 +1,3 @@
-["ainihin","asali","muhimmanci"]
+ainihin
+asali
+muhimmanci

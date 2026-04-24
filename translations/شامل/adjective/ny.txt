@@ -1,1 +1,3 @@
-["wokwanira","wonse","wathunthu"]
+wokwanira
+wonse
+wathunthu

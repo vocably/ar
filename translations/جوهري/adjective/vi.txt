@@ -1,1 +1,3 @@
-["cốt lõi","thiết yếu","cơ bản"]
+cốt lõi
+thiết yếu
+cơ bản

@@ -1,1 +1,2 @@
-["quase","aproximadamente"]
+quase
+aproximadamente

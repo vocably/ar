@@ -1,1 +1,3 @@
-["essentieel","fundamenteel","wezenlijk"]
+essentieel
+fundamenteel
+wezenlijk

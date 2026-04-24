@@ -1,1 +1,2 @@
-["overbevise","tilfredsstille"]
+overbevise
+tilfredsstille

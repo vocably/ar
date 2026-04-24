@@ -1,1 +1,3 @@
-["jistudja","jitgħallem","jeżamina"]
+jistudja
+jitgħallem
+jeżamina

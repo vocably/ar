@@ -1,1 +1,3 @@
-["essenziale","fondamentale","sostanziale"]
+essenziale
+fondamentale
+sostanziale

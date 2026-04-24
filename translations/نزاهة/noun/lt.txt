@@ -1,1 +1,3 @@
-["sąžiningumas","nešališkumas","skaistumas"]
+sąžiningumas
+nešališkumas
+skaistumas

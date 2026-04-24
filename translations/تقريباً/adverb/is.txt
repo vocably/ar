@@ -1,1 +1,2 @@
-["nánast","svona"]
+nánast
+svona

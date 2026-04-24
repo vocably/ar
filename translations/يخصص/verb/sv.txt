@@ -1,1 +1,3 @@
-["avsätta","tilldela","reservera"]
+avsätta
+tilldela
+reservera

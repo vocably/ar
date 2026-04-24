@@ -1,1 +1,3 @@
-["bingung","ragu-ragu","bolak-balik"]
+bingung
+ragu-ragu
+bolak-balik

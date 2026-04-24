@@ -1,1 +1,3 @@
-["studirati","učiti","proučavati"]
+studirati
+učiti
+proučavati

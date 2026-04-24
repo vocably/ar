@@ -1,1 +1,2 @@
-["immediatament","a l'instant"]
+immediatament
+a l'instant

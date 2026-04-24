@@ -1,1 +1,3 @@
-["rugalmasság","hajlékonyság","alkalmazkodóképesség"]
+rugalmasság
+hajlékonyság
+alkalmazkodóképesség

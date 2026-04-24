@@ -1,1 +1,3 @@
-["rajin","tekun","gigih"]
+rajin
+tekun
+gigih

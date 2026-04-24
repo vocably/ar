@@ -1,1 +1,2 @@
-["gevolgen","nasleep"]
+gevolgen
+nasleep

@@ -1,1 +1,3 @@
-["kugovera","kutsaurira","kugadza"]
+kugovera
+kutsaurira
+kugadza

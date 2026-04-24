@@ -1,1 +1,3 @@
-["yana karatu","yana nazari","yana bita"]
+yana karatu
+yana nazari
+yana bita

@@ -1,1 +1,3 @@
-["essensiell","grunnleggende","vesentlig"]
+essensiell
+grunnleggende
+vesentlig

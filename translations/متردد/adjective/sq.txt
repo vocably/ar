@@ -1,1 +1,3 @@
-["i pavendosur","hezig","valëzues"]
+i pavendosur
+hezig
+valëzues

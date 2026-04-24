@@ -1,1 +1,3 @@
-["ya yarda","ya furta","ya tabbatar"]
+ya yarda
+ya furta
+ya tabbatar

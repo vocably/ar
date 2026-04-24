@@ -1,1 +1,2 @@
-["iarmhairtí","impleachtaí"]
+iarmhairtí
+impleachtaí

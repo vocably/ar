@@ -1,1 +1,3 @@
-["studi","ekzameni","revizii"]
+studi
+ekzameni
+revizii

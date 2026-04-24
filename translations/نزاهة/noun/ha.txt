@@ -1,1 +1,3 @@
-["gaskiya","adalci","aminci"]
+gaskiya
+adalci
+aminci

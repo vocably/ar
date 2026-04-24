@@ -1,1 +1,3 @@
-["tərəddüdlü","dəyişkən","təkrarolunan"]
+tərəddüdlü
+dəyişkən
+təkrarolunan

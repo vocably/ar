@@ -1,1 +1,3 @@
-["kupatula","kusankha","kugawa"]
+kupatula
+kusankha
+kugawa

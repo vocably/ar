@@ -1,1 +1,3 @@
-["faʻamalosi","faʻamaoni","faʻamalolosi"]
+faʻamalosi
+faʻamaoni
+faʻamalolosi

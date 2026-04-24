@@ -1,1 +1,3 @@
-["flexibilidade","elasticidade","maleabilidade"]
+flexibilidade
+elasticidade
+maleabilidade

@@ -1,1 +1,3 @@
-["onye na-ala azụ","onye na-agbanwe agbanwe","onye na-emegharị ugboro ugboro"]
+onye na-ala azụ
+onye na-agbanwe agbanwe
+onye na-emegharị ugboro ugboro

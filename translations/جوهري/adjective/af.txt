@@ -1,1 +1,3 @@
-["wesenlik","essensieel","fundamenteel"]
+wesenlik
+essensieel
+fundamenteel

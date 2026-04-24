@@ -1,1 +1,3 @@
-["themelor","kryesor","esencial"]
+themelor
+kryesor
+esencial

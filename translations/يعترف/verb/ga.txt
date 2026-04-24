@@ -1,1 +1,3 @@
-["admhaíonn","aithníonn","dearbhaíonn"]
+admhaíonn
+aithníonn
+dearbhaíonn

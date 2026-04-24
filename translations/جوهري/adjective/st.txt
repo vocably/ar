@@ -1,1 +1,3 @@
-["Bohlokwa","Taba-kgolo","Ntho ya motheo"]
+Bohlokwa
+Taba-kgolo
+Ntho ya motheo

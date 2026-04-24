@@ -1,1 +1,3 @@
-["verloossen","vernoléissegen","iwwersinn"]
+verloossen
+vernoléissegen
+iwwersinn

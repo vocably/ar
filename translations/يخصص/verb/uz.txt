@@ -1,1 +1,3 @@
-["ajratadi","taqsimlaydi","belgilaydi"]
+ajratadi
+taqsimlaydi
+belgilaydi

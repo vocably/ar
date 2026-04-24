@@ -1,1 +1,2 @@
-["eğilim","meyil"]
+eğilim
+meyil

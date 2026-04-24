@@ -1,1 +1,3 @@
-["hukama","chakakosha","chepakutanga"]
+hukama
+chakakosha
+chepakutanga

@@ -1,1 +1,3 @@
-["hasil","jumlah","baki"]
+hasil
+jumlah
+baki

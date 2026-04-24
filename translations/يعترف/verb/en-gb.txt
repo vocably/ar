@@ -1,1 +1,3 @@
-["to admit","to confess","to acknowledge"]
+to admit
+to confess
+to acknowledge

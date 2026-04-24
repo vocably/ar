@@ -1,1 +1,3 @@
-["volhardend","aanhoudend","ywerig"]
+volhardend
+aanhoudend
+ywerig

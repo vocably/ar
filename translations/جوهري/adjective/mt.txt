@@ -1,1 +1,3 @@
-["essenzjali","bażiku","fundamentali"]
+essenzjali
+bażiku
+fundamentali

@@ -1,1 +1,3 @@
-["vztrajen","priden","marljiv"]
+vztrajen
+priden
+marljiv

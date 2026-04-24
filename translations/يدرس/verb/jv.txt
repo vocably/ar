@@ -1,1 +1,3 @@
-["sinau","nyinaoni","ngaji"]
+sinau
+nyinaoni
+ngaji

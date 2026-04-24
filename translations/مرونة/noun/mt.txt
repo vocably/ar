@@ -1,1 +1,3 @@
-["flessibbiltà","adattabilità","tolleranza"]
+flessibbiltà
+adattabilità
+tolleranza

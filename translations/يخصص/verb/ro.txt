@@ -1,1 +1,3 @@
-["a aloca","a dedica","a rezerva"]
+a aloca
+a dedica
+a rezerva

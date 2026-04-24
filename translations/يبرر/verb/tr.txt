@@ -1,1 +1,2 @@
-["haklı çıkarmak","temize çıkarmak"]
+haklı çıkarmak
+temize çıkarmak

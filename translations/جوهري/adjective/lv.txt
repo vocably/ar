@@ -1,1 +1,3 @@
-["būtisks","fundamentāls","esenciāls"]
+būtisks
+fundamentāls
+esenciāls

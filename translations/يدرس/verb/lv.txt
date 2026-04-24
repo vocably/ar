@@ -1,1 +1,3 @@
-["mācīties","studēt","apgūt"]
+mācīties
+studēt
+apgūt

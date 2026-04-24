@@ -1,1 +1,2 @@
-["tšekamelo","takatsong"]
+tšekamelo
+takatsong

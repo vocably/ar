@@ -1,1 +1,2 @@
-["posljedice","implikacije"]
+posljedice
+implikacije

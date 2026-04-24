@@ -1,1 +1,3 @@
-["kõikehõlmav","ulatuslik","üldine"]
+kõikehõlmav
+ulatuslik
+üldine

@@ -1,1 +1,3 @@
-["mengakui","mengaku","mengakui kesalahan"]
+mengakui
+mengaku
+mengakui kesalahan

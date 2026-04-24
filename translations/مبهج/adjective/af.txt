@@ -1,1 +1,2 @@
-["vreugdevol","blymoedig"]
+vreugdevol
+blymoedig

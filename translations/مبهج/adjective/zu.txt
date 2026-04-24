@@ -1,1 +1,2 @@
-["okujabulisayo","okuthokozisayo"]
+okujabulisayo
+okuthokozisayo

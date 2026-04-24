@@ -1,1 +1,3 @@
-["flexibilitet","smidighet","anpassningsförmåga"]
+flexibilitet
+smidighet
+anpassningsförmåga

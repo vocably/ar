@@ -1,1 +1,3 @@
-["kijelöl","elkülönít","ráfordít"]
+kijelöl
+elkülönít
+ráfordít

@@ -1,1 +1,3 @@
-["dediĉi","asigni","rezervi"]
+dediĉi
+asigni
+rezervi

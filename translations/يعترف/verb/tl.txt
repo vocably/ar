@@ -1,1 +1,3 @@
-["Inamin","Kinilala","Ipinagtapat"]
+Inamin
+Kinilala
+Ipinagtapat

@@ -1,1 +1,2 @@
-["nəticələr","fəsadlar"]
+nəticələr
+fəsadlar

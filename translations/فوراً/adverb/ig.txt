@@ -1,1 +1,2 @@
-["Oge ahụ","Ngwa ngwa"]
+Oge ahụ
+Ngwa ngwa

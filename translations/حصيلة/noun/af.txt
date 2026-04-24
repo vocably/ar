@@ -1,1 +1,3 @@
-["opbrengs","resultaat","totaal"]
+opbrengs
+resultaat
+totaal

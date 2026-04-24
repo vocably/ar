@@ -1,1 +1,3 @@
-["whānui","katoa","oti"]
+whānui
+katoa
+oti

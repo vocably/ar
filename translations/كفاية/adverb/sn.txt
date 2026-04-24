@@ -1,1 +1,2 @@
-["Zvakwana","Zvokukwana"]
+Zvakwana
+Zvokukwana

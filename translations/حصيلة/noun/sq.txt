@@ -1,1 +1,3 @@
-["rezultat","bilanc","shumë"]
+rezultat
+bilanc
+shumë

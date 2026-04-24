@@ -1,1 +1,3 @@
-["esensial","hakiki","fundamental"]
+esensial
+hakiki
+fundamental

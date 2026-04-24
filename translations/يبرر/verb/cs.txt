@@ -1,1 +1,2 @@
-["omluvit","ospravedlnit"]
+omluvit
+ospravedlnit

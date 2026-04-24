@@ -1,1 +1,3 @@
-["hasil","jumlah","sésa"]
+hasil
+jumlah
+sésa

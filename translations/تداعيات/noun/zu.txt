@@ -1,1 +1,2 @@
-["imiphumela","izinto ezilandelayo"]
+imiphumela
+izinto ezilandelayo

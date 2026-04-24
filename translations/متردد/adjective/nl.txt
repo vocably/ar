@@ -1,1 +1,3 @@
-["aarzelend","terugkerend","wisselend"]
+aarzelend
+terugkerend
+wisselend

@@ -1,1 +1,3 @@
-["váhavý","kolísavý","střídavý"]
+váhavý
+kolísavý
+střídavý

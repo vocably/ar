@@ -1,1 +1,3 @@
-["to allocate","to designate","to set aside"]
+to allocate
+to designate
+to set aside

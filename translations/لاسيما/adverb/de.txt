@@ -1,1 +1,2 @@
-["besonders","vor allem"]
+besonders
+vor allem

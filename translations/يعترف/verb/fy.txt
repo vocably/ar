@@ -1,1 +1,3 @@
-["bekenne","tajaan","erkent"]
+bekenne
+tajaan
+erkent

@@ -1,1 +1,3 @@
-["skirti","paskirti","atskirti"]
+skirti
+paskirti
+atskirti

@@ -1,1 +1,3 @@
-["kusiyira","kunyalanyaza","kuiwala"]
+kusiyira
+kunyalanyaza
+kuiwala

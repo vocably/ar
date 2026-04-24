@@ -1,1 +1,3 @@
-["vuma","dumela","bika"]
+vuma
+dumela
+bika

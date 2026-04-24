@@ -1,1 +1,3 @@
-["essentiel","fondamental","intrinsèque"]
+essentiel
+fondamental
+intrinsèque

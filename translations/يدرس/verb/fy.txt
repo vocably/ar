@@ -1,1 +1,3 @@
-["studeare","leare","ûndersykje"]
+studeare
+leare
+ûndersykje

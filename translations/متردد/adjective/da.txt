@@ -1,1 +1,3 @@
-["tøvende","vaklende","skiftende"]
+tøvende
+vaklende
+skiftende

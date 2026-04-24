@@ -1,1 +1,2 @@
-["gusobanura","kwiregura"]
+gusobanura
+kwiregura

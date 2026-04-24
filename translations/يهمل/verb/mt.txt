@@ -1,1 +1,3 @@
-["jittraskura","ma jagħtix kas","iħalli"]
+jittraskura
+ma jagħtix kas
+iħalli

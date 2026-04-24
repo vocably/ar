@@ -1,1 +1,2 @@
-["Tendenz","Neigung"]
+Tendenz
+Neigung

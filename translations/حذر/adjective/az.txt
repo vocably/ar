@@ -1,1 +1,2 @@
-["ehtiyatlı","ayıq"]
+ehtiyatlı
+ayıq

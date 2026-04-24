@@ -1,1 +1,3 @@
-["dayaca","dhayalsada","halmaama"]
+dayaca
+dhayalsada
+halmaama

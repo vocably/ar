@@ -1,1 +1,3 @@
-["studiare","esaminare","ripassare"]
+studiare
+esaminare
+ripassare

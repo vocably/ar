@@ -1,1 +1,3 @@
-["izdvojiti","namijeniti","odrediti"]
+izdvojiti
+namijeniti
+odrediti

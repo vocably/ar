@@ -1,1 +1,2 @@
-["přibližně","skoro"]
+přibližně
+skoro

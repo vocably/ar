@@ -1,1 +1,3 @@
-["priznati","priznavati","ispovediti"]
+priznati
+priznavati
+ispovediti

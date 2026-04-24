@@ -1,1 +1,3 @@
-["oxuyur","öyrənir","təhsil alır"]
+oxuyur
+öyrənir
+təhsil alır

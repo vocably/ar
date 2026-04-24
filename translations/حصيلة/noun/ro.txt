@@ -1,1 +1,3 @@
-["rezultat","total","sumă"]
+rezultat
+total
+sumă

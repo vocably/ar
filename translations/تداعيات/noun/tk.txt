@@ -1,1 +1,2 @@
-["netijeler","yzygiderlilik"]
+netijeler
+yzygiderlilik

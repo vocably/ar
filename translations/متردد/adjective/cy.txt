@@ -1,1 +1,3 @@
-["Amheus","Petrus","Cyfnewidiol"]
+Amheus
+Petrus
+Cyfnewidiol

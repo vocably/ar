@@ -1,1 +1,3 @@
-["duglegur","þrautseigur","iðinn"]
+duglegur
+þrautseigur
+iðinn

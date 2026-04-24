@@ -1,1 +1,2 @@
-["pakarepo","nekukurumidza"]
+pakarepo
+nekukurumidza

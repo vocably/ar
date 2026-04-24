@@ -1,1 +1,3 @@
-["tawiis","oanwize","bestimme"]
+tawiis
+oanwize
+bestimme

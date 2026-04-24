@@ -1,1 +1,3 @@
-["asil","asil-asil","asil-asilan"]
+asil
+asil-asil
+asil-asilan

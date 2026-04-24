@@ -1,1 +1,2 @@
-["alegre","joiós"]
+alegre
+joiós

@@ -1,1 +1,3 @@
-["besluiteloos","herhalend","wisselstroom"]
+besluiteloos
+herhalend
+wisselstroom

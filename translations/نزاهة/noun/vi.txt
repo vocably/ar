@@ -1,1 +1,3 @@
-["liêm chính","chính trực","trong sạch"]
+liêm chính
+chính trực
+trong sạch

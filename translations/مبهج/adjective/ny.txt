@@ -1,1 +1,2 @@
-["Chokondweretsa","Chosangalatsa"]
+Chokondweretsa
+Chosangalatsa

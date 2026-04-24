@@ -1,1 +1,3 @@
-["zweiwelhaft","onentschlossen","schwankend"]
+zweiwelhaft
+onentschlossen
+schwankend

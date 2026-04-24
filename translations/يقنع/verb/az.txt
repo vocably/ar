@@ -1,1 +1,2 @@
-["razı salmaq","qane etmək"]
+razı salmaq
+qane etmək

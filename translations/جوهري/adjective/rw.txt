@@ -1,1 +1,3 @@
-["ingenzi","shingiro","ntashyikirwa"]
+ingenzi
+shingiro
+ntashyikirwa

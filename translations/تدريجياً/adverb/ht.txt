@@ -1,1 +1,2 @@
-["tik pa tik","gradually"]
+tik pa tik
+gradually

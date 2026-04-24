@@ -1,1 +1,3 @@
-["vokatra","tsoa-boka","ambiny"]
+vokatra
+tsoa-boka
+ambiny

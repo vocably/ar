@@ -1,1 +1,2 @@
-["khuynh hướng","xu hướng"]
+khuynh hướng
+xu hướng

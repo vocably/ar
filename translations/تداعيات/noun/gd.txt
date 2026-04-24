@@ -1,1 +1,2 @@
-["buaidhean","leantainneachd"]
+buaidhean
+leantainneachd

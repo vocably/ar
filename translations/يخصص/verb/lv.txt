@@ -1,1 +1,3 @@
-["viņš veltīja","viņš atvēlēja","viņš piešķīra"]
+viņš veltīja
+viņš atvēlēja
+viņš piešķīra

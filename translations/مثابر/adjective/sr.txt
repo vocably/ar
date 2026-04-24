@@ -1,1 +1,3 @@
-["istr ajan","uporan","mar ljiv"]
+istr ajan
+uporan
+mar ljiv

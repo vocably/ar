@@ -1,1 +1,3 @@
-["ako","akoako","whakaako"]
+ako
+akoako
+whakaako

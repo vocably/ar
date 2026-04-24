@@ -1,1 +1,2 @@
-["ĝojiga","gaja"]
+ĝojiga
+gaja

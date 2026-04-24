@@ -1,1 +1,3 @@
-["Azimli","Sebatkar","Çalışkan"]
+Azimli
+Sebatkar
+Çalışkan

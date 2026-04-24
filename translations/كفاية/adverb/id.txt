@@ -1,1 +1,2 @@
-["Cukup","Secukupnya"]
+Cukup
+Secukupnya

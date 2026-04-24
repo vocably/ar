@@ -1,1 +1,3 @@
-["neo-chinnteach","ath-chuairteach","caochlaideach"]
+neo-chinnteach
+ath-chuairteach
+caochlaideach

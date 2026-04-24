@@ -1,1 +1,3 @@
-["ionnsaich","sgrùd","dèan sgrùdadh"]
+ionnsaich
+sgrùd
+dèan sgrùdadh

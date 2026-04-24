@@ -1,1 +1,2 @@
-["đặc biệt là","nhất là"]
+đặc biệt là
+nhất là

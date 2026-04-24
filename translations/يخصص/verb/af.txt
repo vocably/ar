@@ -1,1 +1,3 @@
-["toewys","afsonder","bestem"]
+toewys
+afsonder
+bestem

@@ -1,1 +1,3 @@
-["Ikkilanuvchi","Takrorlanuvchi","O'zgaruvchan"]
+Ikkilanuvchi
+Takrorlanuvchi
+O'zgaruvchan

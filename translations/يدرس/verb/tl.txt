@@ -1,1 +1,3 @@
-["Nag-aaral","Pinag-aaralan","Nagrerepaso"]
+Nag-aaral
+Pinag-aaralan
+Nagrerepaso

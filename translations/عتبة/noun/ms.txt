@@ -1,1 +1,3 @@
-["Ambang","Ambang pintu","Peringkat"]
+Ambang
+Ambang pintu
+Peringkat

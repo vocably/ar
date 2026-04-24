@@ -1,1 +1,3 @@
-["fàg","dearmad","dìobair"]
+fàg
+dearmad
+dìobair

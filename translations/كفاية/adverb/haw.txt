@@ -1,1 +1,2 @@
-["Law","Uku lawa"]
+Law
+Uku lawa

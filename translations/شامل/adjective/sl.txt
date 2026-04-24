@@ -1,1 +1,3 @@
-["celovit","splošen","obsežen"]
+celovit
+splošen
+obsežen

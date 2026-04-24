@@ -1,1 +1,3 @@
-["botšepehi","ho loka","bokhabane"]
+botšepehi
+ho loka
+bokhabane

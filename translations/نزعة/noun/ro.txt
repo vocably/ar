@@ -1,1 +1,2 @@
-["tendință","înclinație"]
+tendință
+înclinație

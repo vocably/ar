@@ -1,1 +1,3 @@
-["kết quả","tổng số","số dư"]
+kết quả
+tổng số
+số dư

@@ -1,1 +1,3 @@
-["flexibilidad","elasticidad","ductilidad"]
+flexibilidad
+elasticidad
+ductilidad

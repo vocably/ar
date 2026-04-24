@@ -1,1 +1,3 @@
-["dành riêng","phân bổ","chỉ định"]
+dành riêng
+phân bổ
+chỉ định

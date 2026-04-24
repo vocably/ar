@@ -1,1 +1,3 @@
-["dedicà","assignà","riservà"]
+dedicà
+assignà
+riservà

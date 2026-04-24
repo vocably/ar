@@ -1,1 +1,3 @@
-["Mgbanwe","Nkwagharị","Ndagharị"]
+Mgbanwe
+Nkwagharị
+Ndagharị

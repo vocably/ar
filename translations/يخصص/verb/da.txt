@@ -1,1 +1,3 @@
-["afsat","tildelt","udpeget"]
+afsat
+tildelt
+udpeget

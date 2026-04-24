@@ -1,1 +1,2 @@
-["vreugdevol","blij"]
+vreugdevol
+blij

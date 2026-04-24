@@ -1,1 +1,3 @@
-["hanfodol","sylfaenol","gwirioneddol"]
+hanfodol
+sylfaenol
+gwirioneddol

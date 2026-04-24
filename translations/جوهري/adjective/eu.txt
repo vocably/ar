@@ -1,1 +1,3 @@
-["funtsezko","esentzial","benetako"]
+funtsezko
+esentzial
+benetako

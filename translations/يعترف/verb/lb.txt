@@ -1,1 +1,3 @@
-["erkennen","zuginn","bekennen"]
+erkennen
+zuginn
+bekennen

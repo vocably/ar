@@ -1,1 +1,3 @@
-["kutenga","kugawa","kubainisha"]
+kutenga
+kugawa
+kubainisha

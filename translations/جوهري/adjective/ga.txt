@@ -1,1 +1,3 @@
-["bunúsach","riachtanach","fíor"]
+bunúsach
+riachtanach
+fíor

@@ -1,1 +1,3 @@
-["səbirli","davamlı","əzmli"]
+səbirli
+davamlı
+əzmli

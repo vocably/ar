@@ -1,1 +1,2 @@
-["kuondoa hatia","kuthibitisha"]
+kuondoa hatia
+kuthibitisha

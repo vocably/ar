@@ -1,1 +1,3 @@
-["nəticə","yekun","məbləğ"]
+nəticə
+yekun
+məbləğ

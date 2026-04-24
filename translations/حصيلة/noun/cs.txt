@@ -1,1 +1,3 @@
-["výsledek","bilance","zůstatek"]
+výsledek
+bilance
+zůstatek

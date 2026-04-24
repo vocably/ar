@@ -1,1 +1,3 @@
-["pononga","tapatahi","harakore"]
+pononga
+tapatahi
+harakore

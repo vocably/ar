@@ -1,1 +1,3 @@
-["díograiseach","seasmhach","buansheasmhach"]
+díograiseach
+seasmhach
+buansheasmhach

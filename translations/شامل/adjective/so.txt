@@ -1,1 +1,3 @@
-["Dhameystiran","Guud","Koo kooban"]
+Dhameystiran
+Guud
+Koo kooban

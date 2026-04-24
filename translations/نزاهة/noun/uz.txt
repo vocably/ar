@@ -1,1 +1,3 @@
-["halollik","poklik","beg'arazlik"]
+halollik
+poklik
+beg'arazlik

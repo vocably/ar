@@ -1,1 +1,3 @@
-["resultat","summa","behållning"]
+resultat
+summa
+behållning

@@ -1,1 +1,3 @@
-["flexibility","resilience","pliability"]
+flexibility
+resilience
+pliability

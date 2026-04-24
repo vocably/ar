@@ -1,1 +1,2 @@
-["Mjaft","Sa duhet"]
+Mjaft
+Sa duhet

@@ -1,1 +1,3 @@
-["toradh","buil","suim"]
+toradh
+buil
+suim

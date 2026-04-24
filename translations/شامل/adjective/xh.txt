@@ -1,1 +1,3 @@
-["ibanzi","epheleleyo","yonke"]
+ibanzi
+epheleleyo
+yonke

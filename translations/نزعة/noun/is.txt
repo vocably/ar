@@ -1,1 +1,2 @@
-["hneigð","tilhneiging"]
+hneigð
+tilhneiging

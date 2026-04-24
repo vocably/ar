@@ -1,1 +1,2 @@
-["gledelig","munter"]
+gledelig
+munter

@@ -1,1 +1,3 @@
-["ozinikeleyo","okhuthaleleyo","ongagungqiyo"]
+ozinikeleyo
+okhuthaleleyo
+ongagungqiyo

@@ -1,1 +1,3 @@
-["neodlučan","kolebljiv","oscilirajući"]
+neodlučan
+kolebljiv
+oscilirajući

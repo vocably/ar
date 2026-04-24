@@ -1,1 +1,3 @@
-["muab faib","tso cais","xaiv"]
+muab faib
+tso cais
+xaiv

@@ -1,1 +1,3 @@
-["thừa nhận","công nhận","xưng tội"]
+thừa nhận
+công nhận
+xưng tội

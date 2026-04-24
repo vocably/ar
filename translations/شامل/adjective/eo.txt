@@ -1,1 +1,3 @@
-["ampleksa","inkluziva","ĝenerala"]
+ampleksa
+inkluziva
+ĝenerala

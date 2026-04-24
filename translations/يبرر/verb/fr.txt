@@ -1,1 +1,2 @@
-["justifier","disculper"]
+justifier
+disculper

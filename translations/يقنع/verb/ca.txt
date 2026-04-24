@@ -1,1 +1,2 @@
-["convèncer","satisfer"]
+convèncer
+satisfer

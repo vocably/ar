@@ -1,1 +1,2 @@
-["zam","tso cai"]
+zam
+tso cai

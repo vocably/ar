@@ -1,1 +1,3 @@
-["ykrarly","boyun alýar","etiraf edýär"]
+ykrarly
+boyun alýar
+etiraf edýär

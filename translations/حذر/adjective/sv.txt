@@ -1,1 +1,2 @@
-["försiktig","aktsam"]
+försiktig
+aktsam

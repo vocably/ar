@@ -1,1 +1,3 @@
-["essenziale","fundamentale","veru"]
+essenziale
+fundamentale
+veru

@@ -1,1 +1,3 @@
-["Pinabayaan","Nagpabaya","Napabayaan"]
+Pinabayaan
+Nagpabaya
+Napabayaan

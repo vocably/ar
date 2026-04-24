@@ -1,1 +1,3 @@
-["Wosatsimikiza","Wokayikira","Wosakhazikika"]
+Wosatsimikiza
+Wokayikira
+Wosakhazikika

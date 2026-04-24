@@ -1,1 +1,3 @@
-["risultatu","cumpostu","ammontu"]
+risultatu
+cumpostu
+ammontu

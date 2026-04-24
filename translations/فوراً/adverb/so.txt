@@ -1,1 +1,2 @@
-["Haddaba","Degdeg"]
+Haddaba
+Degdeg

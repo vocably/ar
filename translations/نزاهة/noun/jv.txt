@@ -1,1 +1,3 @@
-["kejujuran","kamurnian","kautaman"]
+kejujuran
+kamurnian
+kautaman

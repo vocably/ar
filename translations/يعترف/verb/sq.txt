@@ -1,1 +1,3 @@
-["pranon","njeh","rrëfen"]
+pranon
+njeh
+rrëfen

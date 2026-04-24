@@ -1,1 +1,3 @@
-["pokok","wigati","hakiki"]
+pokok
+wigati
+hakiki

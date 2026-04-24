@@ -1,1 +1,2 @@
-["overtuigen","tevredenstellen"]
+overtuigen
+tevredenstellen

@@ -1,1 +1,3 @@
-["Flexibilitéit","Biegsamkeet","Souplesse"]
+Flexibilitéit
+Biegsamkeet
+Souplesse

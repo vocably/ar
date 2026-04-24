@@ -1,1 +1,3 @@
-["kuona mtima","kukhulupirika","ungwiro"]
+kuona mtima
+kukhulupirika
+ungwiro

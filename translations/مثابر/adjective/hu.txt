@@ -1,1 +1,3 @@
-["kitartó","állhatatos","szorgalmas"]
+kitartó
+állhatatos
+szorgalmas

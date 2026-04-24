@@ -1,1 +1,3 @@
-["eşik","basamak","giriş"]
+eşik
+basamak
+giriş

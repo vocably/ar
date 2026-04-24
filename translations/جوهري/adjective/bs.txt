@@ -1,1 +1,3 @@
-["suštinski","bitan","esencijalan"]
+suštinski
+bitan
+esencijalan

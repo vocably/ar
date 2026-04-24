@@ -1,1 +1,3 @@
-["Resulta","Kinalabasan","Kabuuan"]
+Resulta
+Kinalabasan
+Kabuuan

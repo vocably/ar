@@ -1,1 +1,2 @@
-["neşeli","sevinçli"]
+neşeli
+sevinçli

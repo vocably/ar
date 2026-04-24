@@ -1,1 +1,2 @@
-["džiugus","linksmas"]
+džiugus
+linksmas

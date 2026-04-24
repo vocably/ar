@@ -1,1 +1,2 @@
-["kecenderungan","karep"]
+kecenderungan
+karep

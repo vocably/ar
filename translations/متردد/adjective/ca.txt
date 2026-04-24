@@ -1,1 +1,3 @@
-["indecís","vacil·lant","altern"]
+indecís
+vacil·lant
+altern

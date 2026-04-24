@@ -1,1 +1,3 @@
-["hoʻokaʻulua","kūnewanewa","kūkaʻi"]
+hoʻokaʻulua
+kūnewanewa
+kūkaʻi

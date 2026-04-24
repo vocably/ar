@@ -1,1 +1,3 @@
-["perseveranti","persistenti","diliġenti"]
+perseveranti
+persistenti
+diliġenti

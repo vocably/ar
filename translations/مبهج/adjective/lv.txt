@@ -1,1 +1,2 @@
-["priecīgs","jautrs"]
+priecīgs
+jautrs

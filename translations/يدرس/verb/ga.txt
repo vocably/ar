@@ -1,1 +1,3 @@
-["déan staidéar","foghlaim","scrúdaigh"]
+déan staidéar
+foghlaim
+scrúdaigh

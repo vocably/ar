@@ -1,1 +1,3 @@
-["résultat","bilan","recette"]
+résultat
+bilan
+recette

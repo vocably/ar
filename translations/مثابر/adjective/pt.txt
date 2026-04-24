@@ -1,1 +1,3 @@
-["Perseverante","Dedicado","Assíduo"]
+Perseverante
+Dedicado
+Assíduo

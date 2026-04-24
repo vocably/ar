@@ -1,1 +1,3 @@
-["yooj yim","hloov tau","mos"]
+yooj yim
+hloov tau
+mos

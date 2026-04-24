@@ -1,1 +1,3 @@
-["ū tonu","ū ki","ū tonu ki"]
+ū tonu
+ū ki
+ū tonu ki

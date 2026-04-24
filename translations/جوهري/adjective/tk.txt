@@ -1,1 +1,3 @@
-["esasy","möhüm","düýpli"]
+esasy
+möhüm
+düýpli

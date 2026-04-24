@@ -1,1 +1,3 @@
-["Mhedzisiro","Chigumisiro","Mari yasara"]
+Mhedzisiro
+Chigumisiro
+Mari yasara

@@ -1,1 +1,3 @@
-["nedrąsus","svyruojantis","pasikartojantis"]
+nedrąsus
+svyruojantis
+pasikartojantis

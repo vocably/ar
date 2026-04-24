@@ -1,1 +1,3 @@
-["opiskella","tutkia","kerrata"]
+opiskella
+tutkia
+kerrata

@@ -1,1 +1,3 @@
-["kwiga","gusoma","kwigisha"]
+kwiga
+gusoma
+kwigisha

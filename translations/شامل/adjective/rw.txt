@@ -1,1 +1,3 @@
-["byose","rusange","ndengakamere"]
+byose
+rusange
+ndengakamere

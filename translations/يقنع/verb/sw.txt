@@ -1,1 +1,2 @@
-["kumshawishi","kumridhisha"]
+kumshawishi
+kumridhisha

@@ -1,1 +1,3 @@
-["Ugwu","Mgbachi","Nzuzu"]
+Ugwu
+Mgbachi
+Nzuzu

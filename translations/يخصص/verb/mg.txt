@@ -1,1 +1,3 @@
-["manokana","mamaritra","mifidy"]
+manokana
+mamaritra
+mifidy

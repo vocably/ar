@@ -1,1 +1,3 @@
-["o'qiydi","tadqiq qiladi","dars takrorlaydi"]
+o'qiydi
+tadqiq qiladi
+dars takrorlaydi

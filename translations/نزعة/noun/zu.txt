@@ -1,1 +1,2 @@
-["ukuthambekela","isifiso"]
+ukuthambekela
+isifiso

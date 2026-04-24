@@ -1,1 +1,3 @@
-["zalantzati","aldakor","errepikakor"]
+zalantzati
+aldakor
+errepikakor

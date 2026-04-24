@@ -1,1 +1,3 @@
-["podstatný","zásadní","esenciální"]
+podstatný
+zásadní
+esenciální

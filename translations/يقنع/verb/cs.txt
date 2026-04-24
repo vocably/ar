@@ -1,1 +1,2 @@
-["přesvědčit","uspokojit"]
+přesvědčit
+uspokojit

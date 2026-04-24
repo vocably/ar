@@ -1,1 +1,3 @@
-["komprehensibo","kasama","pangkalahatan"]
+komprehensibo
+kasama
+pangkalahatan

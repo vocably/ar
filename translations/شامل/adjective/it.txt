@@ -1,1 +1,3 @@
-["completo","generale","onnicomprensivo"]
+completo
+generale
+onnicomprensivo

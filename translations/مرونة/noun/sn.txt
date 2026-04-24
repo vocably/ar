@@ -1,1 +1,3 @@
-["kunyebuka","kuchinjika","kupfava"]
+kunyebuka
+kuchinjika
+kupfava

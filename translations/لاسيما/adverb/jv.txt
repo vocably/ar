@@ -1,1 +1,2 @@
-["utamanipun","langkung-langkung"]
+utamanipun
+langkung-langkung

@@ -1,1 +1,3 @@
-["Flexibilität","Elastizität","Anpassungsfähigkeit"]
+Flexibilität
+Elastizität
+Anpassungsfähigkeit

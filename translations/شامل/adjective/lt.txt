@@ -1,1 +1,3 @@
-["išsamus","visapusis","apimantis"]
+išsamus
+visapusis
+apimantis

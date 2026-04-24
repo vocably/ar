@@ -1,1 +1,3 @@
-["læra","nema","stúdera"]
+læra
+nema
+stúdera

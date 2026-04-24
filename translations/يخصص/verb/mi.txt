@@ -1,1 +1,3 @@
-["tohu","whakarite","wehe"]
+tohu
+whakarite
+wehe

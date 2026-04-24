@@ -1,1 +1,2 @@
-["hajlam","tendencia"]
+hajlam
+tendencia

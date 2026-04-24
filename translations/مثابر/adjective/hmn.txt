@@ -1,1 +1,3 @@
-["uas siab","mob siab","khov kho"]
+uas siab
+mob siab
+khov kho

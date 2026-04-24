@@ -1,1 +1,3 @@
-["kudzidza","kuongorora","kudzokorora"]
+kudzidza
+kuongorora
+kudzokorora

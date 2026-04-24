@@ -1,1 +1,3 @@
-["indeciso","dubidoso","alterno"]
+indeciso
+dubidoso
+alterno

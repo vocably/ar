@@ -1,1 +1,2 @@
-["uiga","tu'inanau"]
+uiga
+tu'inanau

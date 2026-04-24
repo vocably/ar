@@ -1,1 +1,2 @@
-["skłonność","tendencja"]
+skłonność
+tendencja

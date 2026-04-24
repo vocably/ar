@@ -1,1 +1,2 @@
-["canlyniadau","effeithiau"]
+canlyniadau
+effeithiau

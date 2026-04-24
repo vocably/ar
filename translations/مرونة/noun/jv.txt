@@ -1,1 +1,3 @@
-["keluwesan","kalenturan","gampang"]
+keluwesan
+kalenturan
+gampang

@@ -1,1 +1,3 @@
-["flexibilitat","elasticitat","adaptabilitat"]
+flexibilitat
+elasticitat
+adaptabilitat

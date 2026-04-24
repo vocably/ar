@@ -1,1 +1,3 @@
-["študira","preučuje","ponavlja"]
+študira
+preučuje
+ponavlja

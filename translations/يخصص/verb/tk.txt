@@ -1,1 +1,3 @@
-["belli etmek","ayratyn bellenmek","üpjün etmek"]
+belli etmek
+ayratyn bellenmek
+üpjün etmek

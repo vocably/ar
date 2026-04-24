@@ -1,1 +1,3 @@
-["papòt","limit","kòmansman"]
+papòt
+limit
+kòmansman

@@ -1,1 +1,3 @@
-["neglizhon","lë pas dore","harron"]
+neglizhon
+lë pas dore
+harron

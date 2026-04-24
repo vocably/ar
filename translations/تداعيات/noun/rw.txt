@@ -1,1 +1,2 @@
-["ingaruka","ibizakurikiraho"]
+ingaruka
+ibizakurikiraho

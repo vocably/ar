@@ -1,1 +1,3 @@
-["menyeluruh","komprehensif","lengkap"]
+menyeluruh
+komprehensif
+lengkap

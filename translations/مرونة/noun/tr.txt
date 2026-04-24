@@ -1,1 +1,3 @@
-["esneklik","uyum","yumuşaklık"]
+esneklik
+uyum
+yumuşaklık

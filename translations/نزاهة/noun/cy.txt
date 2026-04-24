@@ -1,1 +1,3 @@
-["gonestrwydd","uniondeb","anrhydedd"]
+gonestrwydd
+uniondeb
+anrhydedd

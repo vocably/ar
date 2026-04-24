@@ -1,1 +1,3 @@
-["nchikota","mkpokota","ngụkọta"]
+nchikota
+mkpokota
+ngụkọta

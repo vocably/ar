@@ -1,1 +1,3 @@
-["astudia","dysgu","ystyried"]
+astudia
+dysgu
+ystyried

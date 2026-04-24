@@ -1,1 +1,3 @@
-["sùbailteachd","sùbailteachd inntinn","bogachd"]
+sùbailteachd
+sùbailteachd inntinn
+bogachd

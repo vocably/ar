@@ -1,1 +1,3 @@
-["hopena","huina","koena"]
+hopena
+huina
+koena

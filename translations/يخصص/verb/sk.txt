@@ -1,1 +1,3 @@
-["vyhradiť","prideliť","určiť"]
+vyhradiť
+prideliť
+určiť

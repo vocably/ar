@@ -1,1 +1,3 @@
-["Anoshingirira","Anoramba achiita","Anotsungirira"]
+Anoshingirira
+Anoramba achiita
+Anotsungirira

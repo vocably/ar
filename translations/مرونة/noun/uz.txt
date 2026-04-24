@@ -1,1 +1,3 @@
-["egiluvchanlik","moslashuvchanlik","yumshoqlik"]
+egiluvchanlik
+moslashuvchanlik
+yumshoqlik

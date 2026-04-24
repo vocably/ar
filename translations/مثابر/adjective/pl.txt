@@ -1,1 +1,3 @@
-["wytrwały","pilny","pracowity"]
+wytrwały
+pilny
+pracowity

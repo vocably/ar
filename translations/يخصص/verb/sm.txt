@@ -1,1 +1,3 @@
-["fa'asoa","tu'u fa'apitoa","fa'avasega"]
+fa'asoa
+tu'u fa'apitoa
+fa'avasega

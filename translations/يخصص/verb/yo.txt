@@ -1,1 +1,3 @@
-["yà sọtọ","pín fún","yan fún"]
+yà sọtọ
+pín fún
+yan fún

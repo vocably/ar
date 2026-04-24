@@ -1,1 +1,2 @@
-["Āta haere","Pōturi haere"]
+Āta haere
+Pōturi haere

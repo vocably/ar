@@ -1,1 +1,2 @@
-["neiging","tendens"]
+neiging
+tendens

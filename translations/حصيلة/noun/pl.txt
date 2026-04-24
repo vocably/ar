@@ -1,1 +1,3 @@
-["wynik","suma","saldo"]
+wynik
+suma
+saldo

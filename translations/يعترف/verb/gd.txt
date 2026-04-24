@@ -1,1 +1,3 @@
-["aidich","aideachadh","gabhail"]
+aidich
+aideachadh
+gabhail

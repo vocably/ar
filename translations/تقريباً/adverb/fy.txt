@@ -1,1 +1,2 @@
-["hast","sawat"]
+hast
+sawat

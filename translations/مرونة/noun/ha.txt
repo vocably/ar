@@ -1,1 +1,3 @@
-["sassauci","mai sauƙi","mai laushi"]
+sassauci
+mai sauƙi
+mai laushi

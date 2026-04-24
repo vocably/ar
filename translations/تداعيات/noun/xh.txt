@@ -1,1 +1,2 @@
-["iziphumo","imiphumo"]
+iziphumo
+imiphumo

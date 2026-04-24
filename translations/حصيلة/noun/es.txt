@@ -1,1 +1,3 @@
-["resultado","total","producto"]
+resultado
+total
+producto

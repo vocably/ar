@@ -1,1 +1,3 @@
-["tanul","vizsgál","átnéz"]
+tanul
+vizsgál
+átnéz

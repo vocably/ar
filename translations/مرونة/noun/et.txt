@@ -1,1 +1,3 @@
-["elastsus","paindlikkus","kohanemisvõime"]
+elastsus
+paindlikkus
+kohanemisvõime

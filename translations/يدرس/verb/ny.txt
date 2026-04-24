@@ -1,1 +1,3 @@
-["kuphunzira","kufufuza","kubwereza"]
+kuphunzira
+kufufuza
+kubwereza

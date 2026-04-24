@@ -1,1 +1,2 @@
-["Chikhumbo","Kafuna"]
+Chikhumbo
+Kafuna

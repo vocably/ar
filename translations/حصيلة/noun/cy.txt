@@ -1,1 +1,3 @@
-["canlyniad","swm","cyfanswm"]
+canlyniad
+swm
+cyfanswm

@@ -1,1 +1,2 @@
-["oqibatlar","natijalar"]
+oqibatlar
+natijalar

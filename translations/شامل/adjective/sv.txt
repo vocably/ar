@@ -1,1 +1,3 @@
-["omfattande","inkluderande","alltomfattande"]
+omfattande
+inkluderande
+alltomfattande

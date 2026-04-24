@@ -1,1 +1,2 @@
-["kè kontan","kontan"]
+kè kontan
+kontan

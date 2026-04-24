@@ -1,1 +1,3 @@
-["fleksibilitet","smidighet","bøyelighet"]
+fleksibilitet
+smidighet
+bøyelighet

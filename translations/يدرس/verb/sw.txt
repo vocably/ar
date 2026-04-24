@@ -1,1 +1,3 @@
-["anasoma","anachunguza","anapitia"]
+anasoma
+anachunguza
+anapitia

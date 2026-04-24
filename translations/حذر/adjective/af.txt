@@ -1,1 +1,2 @@
-["versigtig","waaksaam"]
+versigtig
+waaksaam

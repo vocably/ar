@@ -1,1 +1,2 @@
-["Ako kanya","Byihuse"]
+Ako kanya
+Byihuse

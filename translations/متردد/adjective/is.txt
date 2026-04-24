@@ -1,1 +1,3 @@
-["hikandi","óákveðinn","riðill"]
+hikandi
+óákveðinn
+riðill

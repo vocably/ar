@@ -1,1 +1,3 @@
-["jiddedika","jalloka","jassenja"]
+jiddedika
+jalloka
+jassenja

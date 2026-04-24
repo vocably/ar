@@ -1,1 +1,2 @@
-["chido","pfungwa"]
+chido
+pfungwa

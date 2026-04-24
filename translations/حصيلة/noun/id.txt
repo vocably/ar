@@ -1,1 +1,3 @@
-["hasil","jumlah","pendapatan"]
+hasil
+jumlah
+pendapatan

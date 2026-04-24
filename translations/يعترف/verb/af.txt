@@ -1,1 +1,3 @@
-["erken","beken","toegee"]
+erken
+beken
+toegee

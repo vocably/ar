@@ -1,1 +1,2 @@
-["gönümel däl","gizlin"]
+gönümel däl
+gizlin

@@ -1,1 +1,3 @@
-["essinsjeel","fûneminteel","wezenlik"]
+essinsjeel
+fûneminteel
+wezenlik

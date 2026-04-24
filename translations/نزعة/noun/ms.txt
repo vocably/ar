@@ -1,1 +1,2 @@
-["kecenderungan","keinginan"]
+kecenderungan
+keinginan

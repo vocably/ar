@@ -1,1 +1,2 @@
-["Avy hatrany","Amin'izao"]
+Avy hatrany
+Amin'izao

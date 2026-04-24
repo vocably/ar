@@ -1,1 +1,3 @@
-["tveksam","obeslutsam","växlande"]
+tveksam
+obeslutsam
+växlande

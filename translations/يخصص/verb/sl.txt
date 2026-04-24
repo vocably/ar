@@ -1,1 +1,3 @@
-["nameniti","določiti","izločiti"]
+nameniti
+določiti
+izločiti

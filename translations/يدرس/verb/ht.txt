@@ -1,1 +1,3 @@
-["etidye","aprann","revize"]
+etidye
+aprann
+revize

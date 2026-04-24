@@ -1,1 +1,2 @@
-["özellikle","hele"]
+özellikle
+hele

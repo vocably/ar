@@ -1,1 +1,2 @@
-["inklino","tendenco"]
+inklino
+tendenco

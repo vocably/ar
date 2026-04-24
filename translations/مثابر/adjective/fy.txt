@@ -1,1 +1,3 @@
-["folhâldend","oanhâldend","trochsetter"]
+folhâldend
+oanhâldend
+trochsetter

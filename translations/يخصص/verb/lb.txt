@@ -1,1 +1,3 @@
-["widmen","reservéieren","bestëmmen"]
+widmen
+reservéieren
+bestëmmen

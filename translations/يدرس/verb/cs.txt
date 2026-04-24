@@ -1,1 +1,3 @@
-["studovat","učit se","zkoumat"]
+studovat
+učit se
+zkoumat

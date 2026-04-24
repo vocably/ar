@@ -1,1 +1,3 @@
-["uporan","istrajan","marljiv"]
+uporan
+istrajan
+marljiv

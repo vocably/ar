@@ -1,1 +1,2 @@
-["kuyeretsa","kufotokoza"]
+kuyeretsa
+kufotokoza

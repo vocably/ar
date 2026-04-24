@@ -1,1 +1,2 @@
-["dearbhaich","gabh ri"]
+dearbhaich
+gabh ri

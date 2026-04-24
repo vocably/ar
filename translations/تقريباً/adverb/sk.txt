@@ -1,1 +1,2 @@
-["približne","takmer"]
+približne
+takmer

@@ -1,1 +1,3 @@
-["memperuntukkan","mengkhususkan","membezakan"]
+memperuntukkan
+mengkhususkan
+membezakan

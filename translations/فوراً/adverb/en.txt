@@ -1,1 +1,2 @@
-["immediately","right away"]
+immediately
+right away

@@ -1,1 +1,3 @@
-["cakton","ndalon","veçon"]
+cakton
+ndalon
+veçon

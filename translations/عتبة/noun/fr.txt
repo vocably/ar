@@ -1,1 +1,3 @@
-["seuil","linteau","point critique"]
+seuil
+linteau
+point critique

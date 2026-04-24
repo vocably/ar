@@ -1,1 +1,2 @@
-["posledice","učinki"]
+posledice
+učinki

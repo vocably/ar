@@ -1,1 +1,3 @@
-["studion","mëson","shqyrton"]
+studion
+mëson
+shqyrton

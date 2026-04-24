@@ -1,1 +1,3 @@
-["Unyumbufu","Kubadilika","Upole"]
+Unyumbufu
+Kubadilika
+Upole

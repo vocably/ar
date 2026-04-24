@@ -1,1 +1,3 @@
-["ikilenç","ynjalyksyz","gaýtalanýan"]
+ikilenç
+ynjalyksyz
+gaýtalanýan

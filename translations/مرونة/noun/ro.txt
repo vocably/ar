@@ -1,1 +1,3 @@
-["flexibilitate","suplețe","maleabilitate"]
+flexibilitate
+suplețe
+maleabilitate

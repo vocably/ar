@@ -1,1 +1,3 @@
-["wolimbikira","wokhazikika","wosatopa"]
+wolimbikira
+wokhazikika
+wosatopa

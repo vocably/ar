@@ -1,1 +1,2 @@
-["meminta maaf","memaafkan"]
+meminta maaf
+memaafkan

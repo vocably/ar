@@ -1,1 +1,3 @@
-["buigsaamheid","aanpasbaarheid","soepelheid"]
+buigsaamheid
+aanpasbaarheid
+soepelheid

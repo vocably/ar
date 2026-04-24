@@ -1,1 +1,3 @@
-["feno","amin'ny ankapobeny","tafiditra"]
+feno
+amin'ny ankapobeny
+tafiditra

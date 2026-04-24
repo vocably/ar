@@ -1,1 +1,2 @@
-["whakahari","harikoa"]
+whakahari
+harikoa

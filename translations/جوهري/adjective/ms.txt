@@ -1,1 +1,3 @@
-["asas","penting","hakiki"]
+asas
+penting
+hakiki

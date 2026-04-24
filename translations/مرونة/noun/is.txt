@@ -1,1 +1,3 @@
-["sveigjanleiki","liðleiki","aðlögunarhæfni"]
+sveigjanleiki
+liðleiki
+aðlögunarhæfni

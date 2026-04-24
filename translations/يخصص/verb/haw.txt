@@ -1,1 +1,3 @@
-["hoʻokaʻawale","koho","mahele"]
+hoʻokaʻawale
+koho
+mahele

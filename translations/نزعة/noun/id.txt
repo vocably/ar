@@ -1,1 +1,2 @@
-["Kecenderungan","Naluri"]
+Kecenderungan
+Naluri

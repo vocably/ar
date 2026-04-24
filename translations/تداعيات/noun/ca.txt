@@ -1,1 +1,2 @@
-["conseqüències","repercussions"]
+conseqüències
+repercussions

@@ -1,1 +1,2 @@
-["überzeugen","zufrieden sein"]
+überzeugen
+zufrieden sein

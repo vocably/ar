@@ -1,1 +1,3 @@
-["nag-aalangan","paulit-ulit","pabalik-balik"]
+nag-aalangan
+paulit-ulit
+pabalik-balik

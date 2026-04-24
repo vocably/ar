@@ -1,1 +1,3 @@
-["msingi","muhimu","halisi"]
+msingi
+muhimu
+halisi

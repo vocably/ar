@@ -1,1 +1,3 @@
-["kattava","yleis-","kokonaisvaltainen"]
+kattava
+yleis-
+kokonaisvaltainen

@@ -1,1 +1,3 @@
-["flessibilità","elasticità","supplezza"]
+flessibilità
+elasticità
+supplezza

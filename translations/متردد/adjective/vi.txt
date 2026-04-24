@@ -1,1 +1,3 @@
-["do dự","dao động","lưỡng lự"]
+do dự
+dao động
+lưỡng lự

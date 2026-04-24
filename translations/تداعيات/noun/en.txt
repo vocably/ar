@@ -1,1 +1,2 @@
-["ramifications","implications"]
+ramifications
+implications

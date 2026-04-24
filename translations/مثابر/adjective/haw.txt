@@ -1,1 +1,3 @@
-["hoʻomau","kūpaʻa","paʻahana"]
+hoʻomau
+kūpaʻa
+paʻahana

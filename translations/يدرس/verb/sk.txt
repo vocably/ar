@@ -1,1 +1,3 @@
-["študovať","učiť sa","preskúmať"]
+študovať
+učiť sa
+preskúmať

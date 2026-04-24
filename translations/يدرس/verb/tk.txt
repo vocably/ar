@@ -1,1 +1,3 @@
-["okamak","öwrenmek","derňemek"]
+okamak
+öwrenmek
+derňemek

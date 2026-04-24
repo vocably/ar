@@ -1,1 +1,3 @@
-["kjarnorku","grundvallaratriði","raunverulegur"]
+kjarnorku
+grundvallaratriði
+raunverulegur

@@ -1,1 +1,3 @@
-["desatender","neglixir","omitir"]
+desatender
+neglixir
+omitir

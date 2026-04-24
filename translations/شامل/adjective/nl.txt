@@ -1,1 +1,3 @@
-["uitgebreid","alomvattend","uitvoerig"]
+uitgebreid
+alomvattend
+uitvoerig

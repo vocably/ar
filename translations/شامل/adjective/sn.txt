@@ -1,1 +1,3 @@
-["zvose","zvinosanganisira zvose","zvakakwana"]
+zvose
+zvinosanganisira zvose
+zvakakwana

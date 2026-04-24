@@ -1,1 +1,2 @@
-["hang","ka bonako"]
+hang
+ka bonako

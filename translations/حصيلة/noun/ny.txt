@@ -1,1 +1,3 @@
-["Zotsatira","Chiwerengero","Ndalamazo"]
+Zotsatira
+Chiwerengero
+Ndalamazo

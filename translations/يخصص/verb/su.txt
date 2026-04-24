@@ -1,1 +1,3 @@
-["Ngahususkeun","Nyadiakeun","Misahkeun"]
+Ngahususkeun
+Nyadiakeun
+Misahkeun

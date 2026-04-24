@@ -1,1 +1,3 @@
-["studeer","ondersoek","hersien"]
+studeer
+ondersoek
+hersien

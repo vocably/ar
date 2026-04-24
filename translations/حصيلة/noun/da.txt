@@ -1,1 +1,3 @@
-["resultat","udbytte","sum"]
+resultat
+udbytte
+sum

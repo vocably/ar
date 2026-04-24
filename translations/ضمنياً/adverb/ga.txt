@@ -1,1 +1,2 @@
-["go hindíreach","go intuigthe"]
+go hindíreach
+go intuigthe

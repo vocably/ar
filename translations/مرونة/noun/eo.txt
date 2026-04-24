@@ -1,1 +1,3 @@
-["fleksebleco","adaptebleco","elasteco"]
+fleksebleco
+adaptebleco
+elasteco

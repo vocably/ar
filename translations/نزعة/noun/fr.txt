@@ -1,1 +1,2 @@
-["tendance","penchant"]
+tendance
+penchant

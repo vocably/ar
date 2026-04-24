@@ -1,1 +1,2 @@
-["tendens","benägenhet"]
+tendens
+benägenhet

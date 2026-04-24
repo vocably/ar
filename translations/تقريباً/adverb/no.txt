@@ -1,1 +1,2 @@
-["nesten","omtrent"]
+nesten
+omtrent

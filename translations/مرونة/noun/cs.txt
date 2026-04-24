@@ -1,1 +1,3 @@
-["flexibilita","pružnost","poddajnost"]
+flexibilita
+pružnost
+poddajnost

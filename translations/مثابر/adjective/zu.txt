@@ -1,1 +1,3 @@
-["okhuthazelayo","ozikhandlayo","ongayekeleli"]
+okhuthazelayo
+ozikhandlayo
+ongayekeleli

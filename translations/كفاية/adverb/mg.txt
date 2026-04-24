@@ -1,1 +1,2 @@
-["Ampy","Sahaza"]
+Ampy
+Sahaza

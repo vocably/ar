@@ -1,1 +1,3 @@
-["u gaar yeelo","u qoondeeyo","u asteeyo"]
+u gaar yeelo
+u qoondeeyo
+u asteeyo

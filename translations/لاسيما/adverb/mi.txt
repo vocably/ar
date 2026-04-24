@@ -1,1 +1,2 @@
-["rāwaho","tautautefito"]
+rāwaho
+tautautefito

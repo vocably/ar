@@ -1,1 +1,2 @@
-["dìon","saor"]
+dìon
+saor

@@ -1,1 +1,3 @@
-["leisceach","athfhillteach","luascadánach"]
+leisceach
+athfhillteach
+luascadánach

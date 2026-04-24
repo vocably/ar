@@ -1,1 +1,3 @@
-["átfogó","teljes","általános"]
+átfogó
+teljes
+általános

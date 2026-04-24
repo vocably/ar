@@ -1,1 +1,3 @@
-["ufunda","uphanda","uhlaziya"]
+ufunda
+uphanda
+uhlaziya

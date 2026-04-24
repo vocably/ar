@@ -1,1 +1,3 @@
-["perseverante","constante","asiduo"]
+perseverante
+constante
+asiduo

@@ -1,1 +1,3 @@
-["jimla","adadin","sakamako"]
+jimla
+adadin
+sakamako

@@ -1,1 +1,3 @@
-["Ergebnis","Bilanz","Summe"]
+Ergebnis
+Bilanz
+Summe

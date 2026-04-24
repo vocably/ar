@@ -1,1 +1,3 @@
-["mwenye bidii","mvumilivu","mchapakazi"]
+mwenye bidii
+mvumilivu
+mchapakazi

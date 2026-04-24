@@ -1,1 +1,3 @@
-["tekun","tabah","gigih"]
+tekun
+tabah
+gigih

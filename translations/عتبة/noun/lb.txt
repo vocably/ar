@@ -1,1 +1,3 @@
-["Schwell","Träpel","Limites"]
+Schwell
+Träpel
+Limites

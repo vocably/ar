@@ -1,1 +1,3 @@
-["ragu-ragu","berulang-alik","berombak"]
+ragu-ragu
+berulang-alik
+berombak

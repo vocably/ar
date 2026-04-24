@@ -1,1 +1,2 @@
-["forsigtig","påpasselig"]
+forsigtig
+påpasselig

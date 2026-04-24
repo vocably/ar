@@ -1,1 +1,3 @@
-["maʻalahi","hoʻololi","palupalu"]
+maʻalahi
+hoʻololi
+palupalu

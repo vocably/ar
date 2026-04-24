@@ -1,1 +1,2 @@
-["polinkis","tendencija"]
+polinkis
+tendencija

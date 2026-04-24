@@ -1,1 +1,3 @@
-["studéieren","léieren","fuerschen"]
+studéieren
+léieren
+fuerschen

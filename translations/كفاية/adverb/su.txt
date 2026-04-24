@@ -1,1 +1,2 @@
-["Cukup","Sakieu"]
+Cukup
+Sakieu

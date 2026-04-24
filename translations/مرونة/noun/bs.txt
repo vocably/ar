@@ -1,1 +1,3 @@
-["fleksibilnost","elastičnost","prilagodljivost"]
+fleksibilnost
+elastičnost
+prilagodljivost

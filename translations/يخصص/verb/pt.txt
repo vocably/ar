@@ -1,1 +1,3 @@
-["dedicar","designar","reservar"]
+dedicar
+designar
+reservar

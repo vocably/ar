@@ -1,1 +1,3 @@
-["elastība","lokanība","pielāgošanās spēja"]
+elastība
+lokanība
+pielāgošanās spēja

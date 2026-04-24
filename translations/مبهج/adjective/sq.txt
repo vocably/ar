@@ -1,1 +1,2 @@
-["gëzuar","i lumtur"]
+gëzuar
+i lumtur

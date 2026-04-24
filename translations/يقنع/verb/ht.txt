@@ -1,1 +1,2 @@
-["konvenk","satisfè"]
+konvenk
+satisfè

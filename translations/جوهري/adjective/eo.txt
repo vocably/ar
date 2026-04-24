@@ -1,1 +1,3 @@
-["esenca","fundamenta","substanca"]
+esenca
+fundamenta
+substanca

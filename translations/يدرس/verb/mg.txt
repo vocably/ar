@@ -1,1 +1,3 @@
-["mianatra","mandinika","mamerina lesona"]
+mianatra
+mandinika
+mamerina lesona

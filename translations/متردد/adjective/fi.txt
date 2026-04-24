@@ -1,1 +1,3 @@
-["epäröivä","toistuva","vaihteleva"]
+epäröivä
+toistuva
+vaihteleva

@@ -1,1 +1,3 @@
-["perseverante","costante","diligente"]
+perseverante
+costante
+diligente

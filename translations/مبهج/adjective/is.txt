@@ -1,1 +1,2 @@
-["gleðilegur","ánægjulegur"]
+gleðilegur
+ánægjulegur

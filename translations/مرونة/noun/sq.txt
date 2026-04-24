@@ -1,1 +1,3 @@
-["fleksibilitet","elasticitet","lëvizshmëri"]
+fleksibilitet
+elasticitet
+lëvizshmëri

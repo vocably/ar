@@ -1,1 +1,2 @@
-["zımnen","dolaylı olarak"]
+zımnen
+dolaylı olarak

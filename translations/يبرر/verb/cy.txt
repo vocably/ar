@@ -1,1 +1,2 @@
-["esgusodi","cyfiawnhau"]
+esgusodi
+cyfiawnhau

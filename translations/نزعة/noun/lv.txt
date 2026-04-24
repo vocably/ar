@@ -1,1 +1,2 @@
-["tendence","tieksme"]
+tendence
+tieksme

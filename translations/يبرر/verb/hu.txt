@@ -1,1 +1,2 @@
-["igazol","ment"]
+igazol
+ment

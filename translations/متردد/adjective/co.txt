@@ -1,1 +1,3 @@
-["indecisu","esitante","alternatu"]
+indecisu
+esitante
+alternatu

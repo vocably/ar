@@ -1,1 +1,2 @@
-["Vui vẻ","Hân hoan"]
+Vui vẻ
+Hân hoan

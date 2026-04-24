@@ -1,1 +1,3 @@
-["ithuta","bala","hlahloba"]
+ithuta
+bala
+hlahloba

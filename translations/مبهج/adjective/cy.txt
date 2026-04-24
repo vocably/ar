@@ -1,1 +1,2 @@
-["llawen","dedwydd"]
+llawen
+dedwydd

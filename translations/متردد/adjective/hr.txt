@@ -1,1 +1,3 @@
-["neodlučan","kolebljiv","izmjeničan"]
+neodlučan
+kolebljiv
+izmjeničan

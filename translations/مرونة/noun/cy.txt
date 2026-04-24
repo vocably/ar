@@ -1,1 +1,3 @@
-["hyblygrwydd","ystwythder","llacrwydd"]
+hyblygrwydd
+ystwythder
+llacrwydd

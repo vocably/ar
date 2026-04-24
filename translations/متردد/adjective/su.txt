@@ -1,1 +1,3 @@
-["Bimbang","Ragu","Galau"]
+Bimbang
+Ragu
+Galau

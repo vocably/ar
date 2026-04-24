@@ -1,1 +1,3 @@
-["niðurstaða","upphæð","ávöxtun"]
+niðurstaða
+upphæð
+ávöxtun

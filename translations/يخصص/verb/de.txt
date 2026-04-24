@@ -1,1 +1,3 @@
-["widmen","zuteilen","reservieren"]
+widmen
+zuteilen
+reservieren

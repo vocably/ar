@@ -1,1 +1,3 @@
-["prag","meja","stopnja"]
+prag
+meja
+stopnja

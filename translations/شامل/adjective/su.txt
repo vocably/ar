@@ -1,1 +1,3 @@
-["Ngawengku","Nyakup","Komprehensif"]
+Ngawengku
+Nyakup
+Komprehensif

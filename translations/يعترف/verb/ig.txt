@@ -1,1 +1,3 @@
-["kweta","nara","kpughere"]
+kweta
+nara
+kpughere

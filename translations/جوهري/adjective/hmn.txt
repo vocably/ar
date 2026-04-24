@@ -1,1 +1,3 @@
-["tseem ceeb","lub ntsiab","qhov tseeb"]
+tseem ceeb
+lub ntsiab
+qhov tseeb

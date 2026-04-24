@@ -1,1 +1,3 @@
-["hesitant","frequent","alternating"]
+hesitant
+frequent
+alternating

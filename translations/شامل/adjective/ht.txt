@@ -1,1 +1,3 @@
-["konplè","detaye","total"]
+konplè
+detaye
+total

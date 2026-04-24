@@ -1,1 +1,3 @@
-["whakawhā","hāereere","tītakataka"]
+whakawhā
+hāereere
+tītakataka

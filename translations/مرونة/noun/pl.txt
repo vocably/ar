@@ -1,1 +1,3 @@
-["elastyczność","giętkość","plastyczność"]
+elastyczność
+giętkość
+plastyczność

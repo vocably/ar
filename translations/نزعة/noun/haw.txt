@@ -1,1 +1,2 @@
-["ʻano","manaʻo"]
+ʻano
+manaʻo

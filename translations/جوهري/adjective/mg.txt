@@ -1,1 +1,3 @@
-["fototra","tena izy","zava-dehibe"]
+fototra
+tena izy
+zava-dehibe

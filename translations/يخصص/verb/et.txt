@@ -1,1 +1,3 @@
-["eraldis","määrab","pühendab"]
+eraldis
+määrab
+pühendab

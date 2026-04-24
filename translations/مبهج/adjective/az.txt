@@ -1,1 +1,2 @@
-["sevincli","şən"]
+sevincli
+şən

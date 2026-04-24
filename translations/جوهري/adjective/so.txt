@@ -1,1 +1,3 @@
-["asal","muhiim","dhab"]
+asal
+muhiim
+dhab

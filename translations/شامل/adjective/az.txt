@@ -1,1 +1,3 @@
-["əhatəli","şamil","ümumi"]
+əhatəli
+şamil
+ümumi

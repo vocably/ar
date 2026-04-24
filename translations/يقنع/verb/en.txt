@@ -1,1 +1,2 @@
-["convince","satisfy"]
+convince
+satisfy

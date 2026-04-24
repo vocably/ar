@@ -1,1 +1,3 @@
-["əsas","zəruri","həqiqi"]
+əsas
+zəruri
+həqiqi

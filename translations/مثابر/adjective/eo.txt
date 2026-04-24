@@ -1,1 +1,3 @@
-["persistema","konstanta","diligenta"]
+persistema
+konstanta
+diligenta

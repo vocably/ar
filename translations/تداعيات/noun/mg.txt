@@ -1,1 +1,2 @@
-["vokany","fisehoan-javatra"]
+vokany
+fisehoan-javatra

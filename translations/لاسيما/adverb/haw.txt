@@ -1,1 +1,2 @@
-["ʻo ia hoʻi","kahi"]
+ʻo ia hoʻi
+kahi

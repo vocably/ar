@@ -1,1 +1,2 @@
-["kureverera","kupa zvikonzero"]
+kureverera
+kupa zvikonzero

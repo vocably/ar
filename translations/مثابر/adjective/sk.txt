@@ -1,1 +1,3 @@
-["vytrvalý","usilovný","vytrvalec"]
+vytrvalý
+usilovný
+vytrvalec

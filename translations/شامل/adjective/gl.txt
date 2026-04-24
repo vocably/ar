@@ -1,1 +1,3 @@
-["completo","xeral","exhaustivo"]
+completo
+xeral
+exhaustivo

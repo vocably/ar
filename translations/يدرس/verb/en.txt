@@ -1,1 +1,3 @@
-["he studies","he examines","he reviews"]
+he studies
+he examines
+he reviews

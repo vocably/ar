@@ -1,1 +1,3 @@
-["ayırmaq","təyin etmək","xüsusiləşdirmək"]
+ayırmaq
+təyin etmək
+xüsusiləşdirmək

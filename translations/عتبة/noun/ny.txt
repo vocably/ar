@@ -1,1 +1,3 @@
-["chiwundiro","mphambano","chiyambi"]
+chiwundiro
+mphambano
+chiyambi

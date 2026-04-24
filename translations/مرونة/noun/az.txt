@@ -1,1 +1,3 @@
-["elastiklik","çeviklik","yumşaqlıq"]
+elastiklik
+çeviklik
+yumşaqlıq

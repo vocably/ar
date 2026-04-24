@@ -1,1 +1,3 @@
-["ikasi","aztertu","berrikusi"]
+ikasi
+aztertu
+berrikusi

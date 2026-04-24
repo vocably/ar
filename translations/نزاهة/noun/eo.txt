@@ -1,1 +1,3 @@
-["integreco","honesteco","senmakuleco"]
+integreco
+honesteco
+senmakuleco

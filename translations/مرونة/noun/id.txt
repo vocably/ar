@@ -1,1 +1,3 @@
-["kelenturan","fleksibilitas","elastisitas"]
+kelenturan
+fleksibilitas
+elastisitas

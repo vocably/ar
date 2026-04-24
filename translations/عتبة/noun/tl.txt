@@ -1,1 +1,3 @@
-["pasamano","simboryo","unang yugto"]
+pasamano
+simboryo
+unang yugto

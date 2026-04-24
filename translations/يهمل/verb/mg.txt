@@ -1,1 +1,3 @@
-["mandao","mankato","manadino"]
+mandao
+mankato
+manadino

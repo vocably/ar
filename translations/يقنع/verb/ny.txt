@@ -1,1 +1,2 @@
-["kukhoza","kukondwera"]
+kukhoza
+kukondwera

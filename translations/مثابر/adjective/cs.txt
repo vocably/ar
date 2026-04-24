@@ -1,1 +1,3 @@
-["vytrvalý","houževnatý","pilný"]
+vytrvalý
+houževnatý
+pilný

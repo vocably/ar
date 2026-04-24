@@ -1,1 +1,3 @@
-["tairseach","tairseach an dorais","céim"]
+tairseach
+tairseach an dorais
+céim

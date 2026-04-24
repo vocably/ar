@@ -1,1 +1,2 @@
-["gradvist","lidt efter lidt"]
+gradvist
+lidt efter lidt

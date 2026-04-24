@@ -1,1 +1,3 @@
-["onye na-agbasi mbọ ike","onye anaghị ada mbà","onye na-adịghị ekwe ka ihe kwụsị ya"]
+onye na-agbasi mbọ ike
+onye anaghị ada mbà
+onye na-adịghị ekwe ka ihe kwụsị ya

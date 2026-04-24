@@ -1,1 +1,3 @@
-["leithdháil","cuir i leataobh","ainmnigh"]
+leithdháil
+cuir i leataobh
+ainmnigh

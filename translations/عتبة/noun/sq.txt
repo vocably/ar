@@ -1,1 +1,3 @@
-["prag","cak","fillim"]
+prag
+cak
+fillim

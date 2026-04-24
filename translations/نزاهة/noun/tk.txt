@@ -1,1 +1,3 @@
-["dogrulyk","halallyk","arassaçylyk"]
+dogrulyk
+halallyk
+arassaçylyk

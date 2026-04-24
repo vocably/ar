@@ -1,1 +1,3 @@
-["qhov kawg","tus nqi","cov nyiaj tau los"]
+qhov kawg
+tus nqi
+cov nyiaj tau los

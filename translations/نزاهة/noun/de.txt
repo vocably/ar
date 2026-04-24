@@ -1,1 +1,3 @@
-["Integrität","Redlichkeit","Unbescholtenheit"]
+Integrität
+Redlichkeit
+Unbescholtenheit

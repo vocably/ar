@@ -1,1 +1,3 @@
-["unentschlossen","zögerlich","wechselnd"]
+unentschlossen
+zögerlich
+wechselnd

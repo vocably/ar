@@ -1,1 +1,3 @@
-["perseverent","asiduu","stăruitor"]
+perseverent
+asiduu
+stăruitor

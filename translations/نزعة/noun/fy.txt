@@ -1,1 +1,2 @@
-["oanstriid","tendins"]
+oanstriid
+tendins

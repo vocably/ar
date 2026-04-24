@@ -1,1 +1,3 @@
-["indeciso","hesitante","alternado"]
+indeciso
+hesitante
+alternado

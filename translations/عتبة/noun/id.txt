@@ -1,1 +1,3 @@
-["ambang","batas","tahap"]
+ambang
+batas
+tahap

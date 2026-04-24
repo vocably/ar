@@ -1,1 +1,3 @@
-["Igiteranyo","Umusaruro","Ibisigazwa"]
+Igiteranyo
+Umusaruro
+Ibisigazwa

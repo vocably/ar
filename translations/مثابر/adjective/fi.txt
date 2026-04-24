@@ -1,1 +1,3 @@
-["sisukas","sinnikäs","peräänantamaton"]
+sisukas
+sinnikäs
+peräänantamaton

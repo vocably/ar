@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","etinasız olmaq","nəzərdən qaçırmaq"]
+laqeyd yanaşmaq
+etinasız olmaq
+nəzərdən qaçırmaq

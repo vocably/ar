@@ -1,1 +1,2 @@
-["pasekmės","padariniai"]
+pasekmės
+padariniai

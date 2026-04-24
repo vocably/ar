@@ -1,1 +1,2 @@
-["kunyengetedza","kugutsikana"]
+kunyengetedza
+kugutsikana

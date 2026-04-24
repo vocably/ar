@@ -1,1 +1,2 @@
-["yeterince","kifayet"]
+yeterince
+kifayet

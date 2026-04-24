@@ -1,1 +1,3 @@
-["zanedbávat","opomíjet","zmeškat"]
+zanedbávat
+opomíjet
+zmeškat

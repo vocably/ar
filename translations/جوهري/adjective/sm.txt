@@ -1,1 +1,3 @@
-["taua","autu","moni"]
+taua
+autu
+moni

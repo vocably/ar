@@ -1,1 +1,3 @@
-["dùrachdach","seasmhach","dìcheallach"]
+dùrachdach
+seasmhach
+dìcheallach

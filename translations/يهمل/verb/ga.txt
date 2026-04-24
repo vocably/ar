@@ -1,1 +1,3 @@
-["déan faillí","fág ar lár","lig i ndearmad"]
+déan faillí
+fág ar lár
+lig i ndearmad

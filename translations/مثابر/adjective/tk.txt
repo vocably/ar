@@ -1,1 +1,3 @@
-["erjegin","tutukly","sabyrly"]
+erjegin
+tutukly
+sabyrly

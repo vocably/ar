@@ -1,1 +1,2 @@
-["dosta","dovoljno"]
+dosta
+dovoljno

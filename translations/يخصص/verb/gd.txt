@@ -1,1 +1,3 @@
-["sònraich","coisrig","glèidh"]
+sònraich
+coisrig
+glèidh

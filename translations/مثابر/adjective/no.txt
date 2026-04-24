@@ -1,1 +1,3 @@
-["iverig","vedholdende","utholdende"]
+iverig
+vedholdende
+utholdende

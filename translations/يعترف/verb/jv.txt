@@ -1,1 +1,3 @@
-["ngakoni","ngaku","nglairake"]
+ngakoni
+ngaku
+nglairake

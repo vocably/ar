@@ -1,1 +1,3 @@
-["ayırmak","tahsis etmek","özelleştirmek"]
+ayırmak
+tahsis etmek
+özelleştirmek

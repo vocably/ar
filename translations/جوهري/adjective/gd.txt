@@ -1,1 +1,3 @@
-["bunaiteach","riatanach","fìor"]
+bunaiteach
+riatanach
+fìor

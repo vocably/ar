@@ -1,1 +1,2 @@
-["entschëllegen","rechtfertegen"]
+entschëllegen
+rechtfertegen

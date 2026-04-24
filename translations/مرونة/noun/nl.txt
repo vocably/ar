@@ -1,1 +1,3 @@
-["flexibiliteit","elasticiteit","souplesse"]
+flexibiliteit
+elasticiteit
+souplesse

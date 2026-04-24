@@ -1,1 +1,3 @@
-["tunnistama","möönma","üles tunnistama"]
+tunnistama
+möönma
+üles tunnistama

@@ -1,1 +1,3 @@
-["okubalulekile","okuyisisekelo","okwangempela"]
+okubalulekile
+okuyisisekelo
+okwangempela

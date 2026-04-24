@@ -1,1 +1,2 @@
-["nagnjenje","tendenca"]
+nagnjenje
+tendenca

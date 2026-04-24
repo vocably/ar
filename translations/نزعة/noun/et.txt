@@ -1,1 +1,2 @@
-["kalduvus","tendents"]
+kalduvus
+tendents

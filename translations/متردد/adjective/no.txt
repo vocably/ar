@@ -1,1 +1,3 @@
-["nølende","uviss","vegrer"]
+nølende
+uviss
+vegrer

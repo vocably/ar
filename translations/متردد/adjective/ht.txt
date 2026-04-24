@@ -1,1 +1,3 @@
-["ezite","repete","varyab"]
+ezite
+repete
+varyab

@@ -1,1 +1,3 @@
-["gutandukanya","kwihariye","gushyiraho"]
+gutandukanya
+kwihariye
+gushyiraho

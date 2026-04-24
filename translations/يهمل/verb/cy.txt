@@ -1,1 +1,3 @@
-["esgeuluso","gadael","anwybyddu"]
+esgeuluso
+gadael
+anwybyddu

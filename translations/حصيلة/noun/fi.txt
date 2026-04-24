@@ -1,1 +1,3 @@
-["tulos","saalis","tuotto"]
+tulos
+saalis
+tuotto

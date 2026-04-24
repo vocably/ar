@@ -1,1 +1,3 @@
-["pokok","inti","dasar"]
+pokok
+inti
+dasar

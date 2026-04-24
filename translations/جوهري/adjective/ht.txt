@@ -1,1 +1,3 @@
-["esansyèl","fondamantal","reyèl"]
+esansyèl
+fondamantal
+reyèl

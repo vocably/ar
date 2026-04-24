@@ -1,1 +1,3 @@
-["jumuishi","kamili","pana"]
+jumuishi
+kamili
+pana

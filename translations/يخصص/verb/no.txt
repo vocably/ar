@@ -1,1 +1,3 @@
-["å tildele","å avsette","å dedikere"]
+å tildele
+å avsette
+å dedikere

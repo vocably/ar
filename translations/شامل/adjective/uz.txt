@@ -1,1 +1,3 @@
-["to'liq","umumiy","qamrab oluvchi"]
+to'liq
+umumiy
+qamrab oluvchi

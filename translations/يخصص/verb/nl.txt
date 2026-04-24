@@ -1,1 +1,3 @@
-["toewijzen","bestemmen","reserveren"]
+toewijzen
+bestemmen
+reserveren

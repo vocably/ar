@@ -1,1 +1,3 @@
-["bistven","temeljen","prvobiten"]
+bistven
+temeljen
+prvobiten

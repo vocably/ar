@@ -1,1 +1,3 @@
-["resultado","total","balanço"]
+resultado
+total
+balanço

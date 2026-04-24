@@ -1,1 +1,3 @@
-["tokam-baravarana","sokafa","fihatahana"]
+tokam-baravarana
+sokafa
+fihatahana

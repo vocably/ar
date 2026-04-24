@@ -1,1 +1,3 @@
-["omvattend","inklusief","volledig"]
+omvattend
+inklusief
+volledig

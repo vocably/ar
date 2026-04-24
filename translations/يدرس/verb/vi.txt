@@ -1,1 +1,3 @@
-["học","nghiên cứu","ôn bài"]
+học
+nghiên cứu
+ôn bài

@@ -1,1 +1,3 @@
-["úthluta","verja","einkenna"]
+úthluta
+verja
+einkenna

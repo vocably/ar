@@ -1,1 +1,3 @@
-["istotny","zasadniczy","fundamentalny"]
+istotny
+zasadniczy
+fundamentalny

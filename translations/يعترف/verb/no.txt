@@ -1,1 +1,3 @@
-["erkjenne","innrømme","tilstå"]
+erkjenne
+innrømme
+tilstå

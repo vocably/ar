@@ -1,1 +1,3 @@
-["ịmụ akwụkwọ","ịga akwụkwọ","ịgụ akwụkwọ"]
+ịmụ akwụkwọ
+ịga akwụkwọ
+ịgụ akwụkwọ

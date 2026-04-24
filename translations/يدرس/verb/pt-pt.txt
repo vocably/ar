@@ -1,1 +1,3 @@
-["estudar","aprender","revisar"]
+estudar
+aprender
+revisar

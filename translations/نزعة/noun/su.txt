@@ -1,1 +1,2 @@
-["kahayang","niat"]
+kahayang
+niat

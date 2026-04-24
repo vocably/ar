@@ -1,1 +1,3 @@
-["fläisseg","persistent","ausdauernd"]
+fläisseg
+persistent
+ausdauernd

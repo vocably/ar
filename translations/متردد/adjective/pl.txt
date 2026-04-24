@@ -1,1 +1,3 @@
-["wahający się","niezdecydowany","zmienny"]
+wahający się
+niezdecydowany
+zmienny

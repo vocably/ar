@@ -1,1 +1,2 @@
-["meyl","həvəs"]
+meyl
+həvəs

@@ -1,1 +1,2 @@
-["konsegwenzi","riperkussjonijiet"]
+konsegwenzi
+riperkussjonijiet

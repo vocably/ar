@@ -1,1 +1,2 @@
-["mampiaiky","manaiky"]
+mampiaiky
+manaiky

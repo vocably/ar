@@ -1,1 +1,2 @@
-["Mahafaly","Mampifaly"]
+Mahafaly
+Mampifaly

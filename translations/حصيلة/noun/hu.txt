@@ -1,1 +1,3 @@
-["eredmény","összeg","bevétel"]
+eredmény
+összeg
+bevétel

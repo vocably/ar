@@ -1,1 +1,2 @@
-["yaklaşık","tahminen"]
+yaklaşık
+tahminen

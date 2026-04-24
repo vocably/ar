@@ -1,1 +1,3 @@
-["mengkhususkan","menyisihkan","menentukan"]
+mengkhususkan
+menyisihkan
+menentukan

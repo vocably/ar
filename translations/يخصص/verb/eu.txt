@@ -1,1 +1,3 @@
-["esleitu","bereizi","izendatu"]
+esleitu
+bereizi
+izendatu

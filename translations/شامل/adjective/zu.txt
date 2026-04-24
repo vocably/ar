@@ -1,1 +1,3 @@
-["okuphelele","olubanzi","oluphelele"]
+okuphelele
+olubanzi
+oluphelele

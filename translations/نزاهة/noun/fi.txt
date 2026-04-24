@@ -1,1 +1,3 @@
-["rehellisyys","nuhteettomuus","moitteettomuus"]
+rehellisyys
+nuhteettomuus
+moitteettomuus

@@ -1,1 +1,3 @@
-["priznať","uznať","vyznať"]
+priznať
+uznať
+vyznať

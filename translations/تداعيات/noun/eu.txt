@@ -1,1 +1,2 @@
-["ondorioak","eraginak"]
+ondorioak
+eraginak

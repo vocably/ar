@@ -1,1 +1,2 @@
-["tendens","tilbøjelighed"]
+tendens
+tilbøjelighed
