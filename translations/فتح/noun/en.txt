@@ -1,0 +1,5 @@
+conquest
+opening
+victory
+capture
+success

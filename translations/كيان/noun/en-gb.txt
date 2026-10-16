@@ -1,0 +1,4 @@
+entity
+being
+existence
+body

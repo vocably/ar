@@ -1,0 +1,4 @@
+fate
+amount
+value
+pot

@@ -1,0 +1,4 @@
+situation
+condition
+status
+position

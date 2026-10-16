@@ -1,0 +1,4 @@
+lettre
+caractère
+bord
+métier

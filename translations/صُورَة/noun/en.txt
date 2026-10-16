@@ -1,0 +1,4 @@
+picture
+image
+form
+copy

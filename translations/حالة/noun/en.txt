@@ -1,0 +1,4 @@
+state
+situation
+case
+condition

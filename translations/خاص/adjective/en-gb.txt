@@ -1,0 +1,4 @@
+special
+private
+exclusive
+particular

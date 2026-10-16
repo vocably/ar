@@ -1,0 +1,3 @@
+result
+product
+output
